@@ -1,0 +1,7 @@
+Se han descartado automáticamente los siguientes mensajes al abrir este archivo
+
+Archivo	Mensaje	Respuesta	
+Floating Robot	No se ha encontrado el tamaño (TA14UNCZB) al que hace referencia este ensamblaje. No se puede crear automáticamente porque este componente (nut_security) no existe en Toolbox.
+ 
+¿Desea buscarlo?	No
+
