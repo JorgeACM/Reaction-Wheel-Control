@@ -10,7 +10,7 @@ Reaction-Wheel-Control/
 │── CAD_Images/              # Images of the robot model
 │── Images/                  # Simulink Simulations ScreenShots
 │── src/                     # Simulink models and MATLAB scripts for calculations and system simulations  
-│── Documentation/           # Project-related documents and reports  
+│── Documents/               # Project-related documents and reports  
 │── README.md                # This file  
 ```
 
@@ -48,7 +48,8 @@ To visualize the **complete robot assembly**, follow these steps:
 This project contributes to the **development of reaction wheel-based attitude control systems**, which are widely used in **CubeSats** and other small spacecraft. The system has been validated through numerical simulations and CAD modeling, providing a foundation for further experimental testing.  
 
 ## 📖 References  
-For a detailed explanation of the system design, refer to the **thesis document** included in the `Documentation/` folder.  
+For a detailed explanation of the system design, refer to the **thesis document** included in the `Documents/` folder:
+`Documents/Reaction_Wheel_Control_of_an_Air-Bearing_Floating_Robot.pdf`
 
 ## 📝 License  
 © 2024 Jorge Antonio Chavarín Montoya.  
