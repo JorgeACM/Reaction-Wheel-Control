@@ -6,9 +6,10 @@ This repository contains the code and simulation models for the **attitude contr
 ## 📂 Repository Structure  
 ```
 Reaction-Wheel-Control/
-│── CAD/                     # CAD files of the floating robot assembly  
-│── Simulink/                # Simulink models for system simulations  
-│── MATLAB/                  # MATLAB scripts for calculations and simulations  
+│── CAD/                     # CAD files of the floating robot assembly
+│── CAD_Images/              # Images of the robot model
+│── Images/                  # Simulink Simulations ScreenShots
+│── src/                     # Simulink models and MATLAB scripts for calculations and system simulations  
 │── Documentation/           # Project-related documents and reports  
 │── README.md                # This file  
 ```
@@ -18,7 +19,7 @@ Reaction-Wheel-Control/
 ### 1️⃣ Initialize System Variables  
 Before running any **Simulink model**, execute the following MATLAB script to load all system variables into the workspace:  
 ```matlab
-run('MATLAB/SystemVariables.m');
+run('src/SystemVariables.m');
 ```
 ### 2️⃣ Running Simulink Models  
 To simulate the **attitude dynamics and control using a reaction wheel**, follow these steps:  
